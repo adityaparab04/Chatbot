@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ibm.watson.developer_cloud:android-sdk:0.4.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-sdk-0.4.2.aar/db41fa682039e75e3a9ff0612ff4191d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-sdk-0.4.2.aar/db41fa682039e75e3a9ff0612ff4191d/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/android-sdk/0.4.2/1b723fbf0081a6a8b73d50cb1e511e31780059cf/android-sdk-0.4.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/android-sdk/0.4.2/537142fe5416008752000d4c6d8926892622cd41/android-sdk-0.4.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

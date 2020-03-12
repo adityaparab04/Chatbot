@@ -1,0 +1,22 @@
+<resources>
+
+    <!--App name-->
+    <string name="app_name">V Chat</string>
+
+    <string name="user_input_text">Enter your query</string>
+    <string name="prompt_emailid">Email Id</string>
+    <string name="prompt_password">Password</string>
+
+    <!--Log In page String values -->
+    <string name="LoginPage">Login Page</string>
+    <string name="action_sign_in">Log in</string>
+    <string name="action_register">New? Register here</string>
+
+    <!--Sign up page String values-->
+    <string name="Create_new_account">Create new account</string>
+    <string name="new_SignUP">Sign Up</string>
+    <string name="old_account">already have an account…?</string>
+    <string name="prompt_name">Name</string>
+    <string name="Logout">Logout</string>
+
+</resources>

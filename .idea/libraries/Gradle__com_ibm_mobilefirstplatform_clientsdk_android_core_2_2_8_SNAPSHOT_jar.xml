@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ibm.mobilefirstplatform.clientsdk.android:core:2.2.8-SNAPSHOT@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.mobilefirstplatform.clientsdk.android/core/2.2.8-SNAPSHOT/3ceecd188804b5ebc966d11f20fcee35d0a52030/core-2.2.8-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.mobilefirstplatform.clientsdk.android/core/2.2.8-SNAPSHOT/78926c11dc87453fa502c96ac698a6c5c3f2426/core-2.2.8-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.mobilefirstplatform.clientsdk.android/core/2.2.8-SNAPSHOT/c47e1367a168d1c98b3207696a26ed958736d075/core-2.2.8-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

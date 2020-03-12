@@ -1,0 +1,7 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference
+        android:defaultValue="true"
+        android:title="Settings option"
+        android:key="example_switch"
+        android:summary="Turn this option on or off" />
+</PreferenceScreen>

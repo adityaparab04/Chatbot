@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1054679665699",
+    "firebase_url": "https://chatbot-a7d9d.firebaseio.com",
+    "project_id": "chatbot-a7d9d",
+    "storage_bucket": "chatbot-a7d9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054679665699:android:0e1ea2dc36e5a0a2eaf596",
+        "android_client_info": {
+          "package_name": "com.example.vmac.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054679665699-oqed6qvu9s06oq6cobfit4m3ttj3knka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vmac.chatbot",
+            "certificate_hash": "8ac18ad7db23622abfd419083c51a8f6c1e3d688"
+          }
+        },
+        {
+          "client_id": "1054679665699-3q16ori0dokhl94ss6nkfnauuau4d37v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA35QDd0oYDBDpOzx9v-L279Vh2o_DoEZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054679665699-3q16ori0dokhl94ss6nkfnauuau4d37v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
